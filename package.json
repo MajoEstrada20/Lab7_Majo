@@ -1,0 +1,24 @@
+{
+  "name": "lab7",
+  "version": "1.0.0",
+  "description": "Lab7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosA1029/Laboratorio7_CarlosParedes.git"
+  },
+  "author": "Carlos Paredes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosA1029/Laboratorio7_CarlosParedes/issues"
+  },
+  "homepage": "https://github.com/CarlosA1029/Laboratorio7_CarlosParedes#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "heroku": "^7.29.0",
+    "toolbelt": "^0.1.7"
+  }
+}
